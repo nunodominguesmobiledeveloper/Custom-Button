@@ -12,8 +12,8 @@ import UIKit
     
     //Default Values
     var borderColor: UIColor = .gray
-    var borderWidth: CGFloat = 2
-    var buttonBackgroundColor: UIColor = UIColor(red: 49/255, green: 126/255, blue: 238/255, alpha: 1)
+    var borderWidth: CGFloat = 1
+    var buttonBackgroundColor: UIColor = UIColor(red: 29/255, green: 169/255, blue: 255/255, alpha: 1)
     var buttonTextColor: UIColor = .white
     var buttonTitleFont: UIFont = UIFont.systemFont(ofSize: 16, weight: .bold)
     
